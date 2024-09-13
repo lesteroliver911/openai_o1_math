@@ -1,0 +1,23 @@
+body {
+    background-color: #f0f2f6;
+    font-family: 'Georgia', serif;
+}
+
+.stTextInput > div > input {
+    font-family: 'Courier New', monospace;
+    background-color: #eef;
+}
+
+.stTextArea > div > textarea {
+    font-family: 'Courier New', monospace;
+    background-color: #eef;
+}
+
+.stButton > button {
+    background-color: #004080;
+    color: white;
+}
+
+.stMarkdown {
+    font-size: 18px;
+}
